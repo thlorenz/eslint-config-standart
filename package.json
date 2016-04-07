@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standart",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Linting rules that make your code look like art that stands on it's own",
   "main": "index.js",
   "scripts": {},
