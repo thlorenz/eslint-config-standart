@@ -10,7 +10,7 @@
   },
   "homepage": "https://github.com/thlorenz/eslint-config-standart",
   "dependencies": {
-    "standard": "~6.0.8"
+    "eslint-config-standard": "~6.2.1"
   },
   "devDependencies": {},
   "keywords": [],
